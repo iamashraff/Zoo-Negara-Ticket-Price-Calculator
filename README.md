@@ -43,8 +43,18 @@ For Non OOP code version, the main class is located at folder `src/Non OOP` and 
 
 ## Output
 
-### General Output
+### 1. General Output
 <img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output1.png" width=500>
 
-### Output : If user initialize sentinel value is 0
-<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output%202.png" width=400>
+### 2. Output : If user initialize sentinel value is 0
+<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output%202.png" width=380>
+
+
+### 3. Output : If user input value of Residence Status is 1 which is “1 – Malaysian”
+
+<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output_Malaysian.png" width=380>
+<br>
+<p  align="center">
+<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output_DryRun_Malaysian.png" width=700><br>
+Dry run table to prove that the calculation process acts accordingly
+</p>
