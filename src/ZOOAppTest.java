@@ -1,15 +1,5 @@
-/*
--------------------------CODED BY-----------------------------
-MUHAMAD ASHRAFF BIN OTHMAN 		                  52213120560
-MUHAMMAD HADIF BIN ABDUL RAHIM 		              52213120450 
-SITI NABILAH BINTI MOHD HANAFI 		              52213120509 
-SHARIFAH NURUL FATIHAH BINTI WAN ASHHAR MARZUKI   52213120482
----------------------------FOR--------------------------------
-                    MADAM SURIANA ISMAIL
---------------------------------------------------------------                    
- */
 import java.util.*;
-public class ZOOApp20509Test {
+public class ZOOAppTest {
 
     public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
@@ -76,7 +66,7 @@ public class ZOOApp20509Test {
         }
     
         //Declare object to call zooProcess class
-        ZOOApp20509 myZooProcess = new ZOOApp20509(statusResidence);
+        ZOOApp myZooProcess = new ZOOApp(statusResidence);
 
         //Prompt and Get Ticket Quantity
         System.out.println("\n");
