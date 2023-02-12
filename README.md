@@ -26,6 +26,15 @@ Programming concept that I applied in this project are:
 - Using **switch case statement** to set price of each category; Adult, Child or Senior.
 - Using **array** to store price and quantity of the ticket.
 
+## Project Requirements
+Zoo Negara determines their admission fees based on the age of the guest and their status of residence. Create a program that asks the user to enter the status of residence, and quantity of the tickets (based on the age). Program should display the admission cost with an appropriate message.
+Below is the pricing table:
+|   | Malaysian | Asean | Others |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+|Adult| RM44 | RM63 | RM85 |
+|Children<br>(3 to 12 years old)| RM16 | RM33 | RM43 |
+|Senior Citizen<br>(60 years and above)| RM21 | RM63 | RM85 |
+
 ## How it works ?
 
 The source code is available on folder `src`. There are two folder which are `OOP` and `Non OOP`. Both of them are delivering and producing the same output but with different implementation in terms of its coding style.
@@ -58,3 +67,31 @@ For Non OOP code version, the main class is located at folder `src/Non OOP` and 
 <img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output_DryRun_Malaysian.png" width=700><br>
 Dry run table to prove that the calculation process acts accordingly
 </p>
+
+### 4. Output : If user input value of Residence Status is 2 which is “2 – Asean”
+<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output_Asean.png" width=380>
+<br>
+<p  align="center">
+<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output_DryRun_Asean.png" width=700><br>
+Dry run table to prove that the calculation process acts accordingly
+</p>
+
+### 5. Output : If user input value of Residence Status is 3 which is “3 – Others”
+<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output_Others.png" width=380>
+<br>
+<p  align="center">
+<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output_DryRun_Others.png" width=700><br>
+Dry run table to prove that the calculation process acts accordingly
+</p>
+
+### 6. Output : If user input value of Residence Status other than 1,2 or 3.
+<img src="https://raw.githubusercontent.com/iamashraff/Zoo-Negara-Ticket-Price-Calculator/main/img/Output_OtherValue.png" width=380>
+
+### References
+Liang, Y. D. (2014). _Introduction to JAVA Programming: Comprehensive Version_. Pearson.
+
+## Credit
+
+**Developed by :**  
+Muhamad Ashraff Othman  
+© 2021 All rights reserved.
