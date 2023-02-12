@@ -1,3 +1,7 @@
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/65198559/218298727-29af6a21-2b8e-4e4d-a329-68aaff85d50d.png" width=150>
+</p>
+
 # Zoo Negara Ticket Price Calculator
 
 Zoo Negara Ticket Price Calculator is a simple Java application that calculate total ticket price based on residence status, quantity of tickets and age. This project was developed for the course Principles of Computer Programming - ISB10103 at the Universiti Kuala Lumpur.
