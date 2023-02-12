@@ -1,10 +1,10 @@
-public class ZOOApp20509 {
+public class ZOOApp {
 
     private int statusResidence; //Declare instance variable as private
     /*The variable statusResidence outside of method
     so that every method can access the variable value.*/
 
-    public ZOOApp20509(int s) //constructor with parameter
+    public ZOOApp(int s) //constructor with parameter
     {
         statusResidence = s; //Set value of statusResidence
     }//end of constructor
